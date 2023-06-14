@@ -1,0 +1,4 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="energy <= 0.8\ngini = 0.93\nsamples = 15685\nvalue = [1655.29, 1659.37, 1635.92, 1772.27, 1660.06, 1760.75\n1636.6, 1678.72, 1629.5, 1690.72, 1725.79, 1609.74\n1685.97, 1651.86, 1632.08]\nclass = r", fillcolor="#ffffff"] ;
